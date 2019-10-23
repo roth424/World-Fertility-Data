@@ -1,0 +1,941 @@
+country,continent,country_code,data_year,fertility_rate
+Aruba,South America,ABW,1960,4.82
+Aruba,South America,ABW,1980,2.392
+Aruba,South America,ABW,2000,1.872
+Aruba,South America,ABW,2016,1.8
+Afghanistan,Europe,AFG,1960,7.45
+Afghanistan,Europe,AFG,1980,7.449
+Afghanistan,Europe,AFG,2000,7.494
+Afghanistan,Europe,AFG,2016,4.635
+Angola,Europe,AGO,1960,7.478
+Angola,Europe,AGO,1980,7.504
+Angola,Europe,AGO,2000,6.639
+Angola,Europe,AGO,2016,5.694
+Albania,Europe,ALB,1960,6.489
+Albania,Europe,ALB,1980,3.621
+Albania,Europe,ALB,2000,2.157
+Albania,Europe,ALB,2016,1.713
+Arab World,Asia,ARB,1960,6.948746671
+Arab World,Asia,ARB,1980,6.335755611
+Arab World,Asia,ARB,2000,3.816225752
+Arab World,Asia,ARB,2016,3.326532401
+United Arab Emirates,Europe,ARE,1960,6.929
+United Arab Emirates,Europe,ARE,1980,5.505
+United Arab Emirates,Europe,ARE,2000,2.644
+United Arab Emirates,Europe,ARE,2016,1.748
+Argentina,South America,ARG,1960,3.109
+Argentina,South America,ARG,1980,3.325
+Argentina,South America,ARG,2000,2.561
+Argentina,South America,ARG,2016,2.293
+Armenia,Asia,ARM,1960,4.786
+Armenia,Asia,ARM,1980,2.51
+Armenia,Asia,ARM,2000,1.648
+Armenia,Asia,ARM,2016,1.612
+Antigua and Barbuda,Europe,ATG,1960,4.425
+Antigua and Barbuda,Europe,ATG,1980,2.115
+Antigua and Barbuda,Europe,ATG,2000,2.316
+Antigua and Barbuda,Europe,ATG,2016,2.051
+Australia,Oceania,AUS,1960,3.453
+Australia,Oceania,AUS,1980,1.891
+Australia,Oceania,AUS,2000,1.756
+Australia,Oceania,AUS,2016,1.809
+Austria,Europe,AUT,1960,2.69
+Austria,Europe,AUT,1980,1.65
+Austria,Europe,AUT,2000,1.36
+Austria,Europe,AUT,2016,1.49
+Azerbaijan,Asia,AZE,1960,5.878
+Azerbaijan,Asia,AZE,1980,3.497
+Azerbaijan,Asia,AZE,2000,2
+Azerbaijan,Asia,AZE,2016,1.94
+Burundi,Africa,BDI,1960,6.953
+Burundi,Africa,BDI,1980,7.418
+Burundi,Africa,BDI,2000,7.008
+Burundi,Africa,BDI,2016,5.697
+Belgium,Europe,BEL,1960,2.54
+Belgium,Europe,BEL,1980,1.68
+Belgium,Europe,BEL,2000,1.67
+Belgium,Europe,BEL,2016,1.7
+Benin,North America,BEN,1960,6.282
+Benin,North America,BEN,1980,7.025
+Benin,North America,BEN,2000,5.962
+Benin,North America,BEN,2016,4.977
+Burkina Faso,Africa,BFA,1960,6.291
+Burkina Faso,Africa,BFA,1980,7.127
+Burkina Faso,Africa,BFA,2000,6.592
+Burkina Faso,Africa,BFA,2016,5.353
+Bangladesh,Asia,BGD,1960,6.725
+Bangladesh,Asia,BGD,1980,6.359
+Bangladesh,Asia,BGD,2000,3.17
+Bangladesh,Asia,BGD,2016,2.104
+Bulgaria,Africa,BGR,1960,2.31
+Bulgaria,Africa,BGR,1980,2.05
+Bulgaria,Africa,BGR,2000,1.26
+Bulgaria,Africa,BGR,2016,1.53
+Bahrain,Asia,BHR,1960,7.087
+Bahrain,Asia,BHR,1980,4.916
+Bahrain,Asia,BHR,2000,2.795
+Bahrain,Asia,BHR,2016,2.033
+Bahamas,North America," The'"",1960,4.495
+Bahamas,North America," The'"",1980,2.989
+Bahamas,North America," The'"",2000,2.071
+Bahamas,North America," The'"",2016,1.767
+Bosnia and Herzegovina,South America,BIH,1960,3.801
+Bosnia and Herzegovina,South America,BIH,1980,2.122
+Bosnia and Herzegovina,South America,BIH,2000,1.497
+Bosnia and Herzegovina,South America,BIH,2016,1.36
+Belarus,Asia,BLR,1960,2.67
+Belarus,Asia,BLR,1980,2.03
+Belarus,Asia,BLR,2000,1.317
+Belarus,Asia,BLR,2016,1.733
+Belize,North America,BLZ,1960,6.5
+Belize,North America,BLZ,1980,5.849
+Belize,North America,BLZ,2000,3.6
+Belize,North America,BLZ,2016,2.51
+Bermuda,North America,BMU,1960,0
+Bermuda,North America,BMU,1980,0
+Bermuda,North America,BMU,2000,1.74
+Bermuda,North America,BMU,2016,1.61
+Bolivia,South America,BOL,1960,6.7
+Bolivia,South America,BOL,1980,5.715
+Bolivia,South America,BOL,2000,4.055
+Bolivia,South America,BOL,2016,2.878
+Brazil,South America,BRA,1960,6.07
+Brazil,South America,BRA,1980,4.068
+Brazil,South America,BRA,2000,2.3
+Brazil,South America,BRA,2016,1.726
+Barbados,Asia,BRB,1960,4.333
+Barbados,Asia,BRB,1980,2.004
+Barbados,Asia,BRB,2000,1.744
+Barbados,Asia,BRB,2016,1.797
+Brunei Darussalam,Asia,BRN,1960,6.836
+Brunei Darussalam,Asia,BRN,1980,4.067
+Brunei Darussalam,Asia,BRN,2000,2.218
+Brunei Darussalam,Asia,BRN,2016,1.874
+Bhutan,North America,BTN,1960,6.67
+Bhutan,North America,BTN,1980,6.553
+Bhutan,North America,BTN,2000,3.604
+Bhutan,North America,BTN,2016,2.051
+Botswana,South America,BWA,1960,6.615
+Botswana,South America,BWA,1980,6.214
+Botswana,South America,BWA,2000,3.387
+Botswana,South America,BWA,2016,2.73
+Central African Republic,Africa,CAF,1960,5.84
+Central African Republic,Africa,CAF,1980,5.954
+Central African Republic,Africa,CAF,2000,5.5
+Euro area,Africa,EMU,2000,1.4703049
+Central African Republic,Africa,CAF,2016,4.869
+Canada,Africa,CAN,1960,3.811
+Canada,Africa,CAN,1980,1.74
+Canada,Africa,CAN,2000,1.49
+Canada,Africa,CAN,2016,1.6
+Central Europe and the Baltics,Africa,CEB,1960,2.497081713
+Central Europe and the Baltics,Africa,CEB,1980,2.19441764
+Central Europe and the Baltics,Africa,CEB,2000,1.317712696
+Central Europe and the Baltics,Africa,CEB,2016,1.453658449
+Switzerland,Africa,CHE,1960,2.44
+Switzerland,Africa,CHE,1980,1.55
+Switzerland,Africa,CHE,2000,1.5
+Switzerland,Africa,CHE,2016,1.54
+Channel Islands,Africa,CHI,1960,2.421
+Channel Islands,Africa,CHI,1980,1.454
+Channel Islands,Africa,CHI,2000,1.402
+Channel Islands,Africa,CHI,2016,1.478
+Chile,Africa,CHL,1960,5.102
+Chile,Africa,CHL,1980,2.778
+Chile,Africa,CHL,2000,2.107
+Chile,Africa,CHL,2016,1.774
+China,Africa,CHN,1960,5.748
+China,Africa,CHN,1980,2.63
+China,Africa,CHN,2000,1.497
+China,Africa,CHN,2016,1.624
+Cote d'Ivoire,North America,CIV,1960,7.691
+Cote d'Ivoire,North America,CIV,1980,7.59
+Cote d'Ivoire,North America,CIV,2000,5.859
+Cote d'Ivoire,North America,CIV,2016,4.911
+Cameroon,Africa,CMR,1960,5.647
+Cameroon,Africa,CMR,1980,6.625
+Cameroon,Africa,CMR,2000,5.58
+Cameroon,Africa,CMR,2016,4.708
+Congo,Africa,COG,1960,5.88
+Congo,Africa,COG,1980,6.21
+Congo,Africa,COG,2000,5.096
+Congo,Africa,COG,2016,4.661
+Colombia,Africa,COL,1960,6.807
+Colombia,Africa,COL,1980,3.965
+Colombia,Africa,COL,2000,2.389
+Colombia,Africa,COL,2016,1.853
+Comoros,Africa,COM,1960,6.792
+Comoros,Africa,COM,1980,7.078
+Comoros,Africa,COM,2000,5.384
+Comoros,Africa,COM,2016,4.347
+Cabo Verde,Africa,CPV,1960,6.885
+Cabo Verde,Africa,CPV,1980,6.375
+Cabo Verde,Africa,CPV,2000,3.762
+Cabo Verde,Africa,CPV,2016,2.334
+Costa Rica,North America,CRI,1960,6.451
+Costa Rica,North America,CRI,1980,3.588
+Costa Rica,North America,CRI,2000,2.373
+Costa Rica,North America,CRI,2016,1.783
+Caribbean small states,Africa,CSS,1960,5.599965278
+Caribbean small states,Africa,CSS,1980,3.596813194
+Caribbean small states,Africa,CSS,2000,2.436989923
+Caribbean small states,Africa,CSS,2016,2.034494753
+Cuba,North America,CUB,1960,4.182
+Cuba,North America,CUB,1980,1.892
+Cuba,North America,CUB,2000,1.617
+Cuba,North America,CUB,2016,1.722
+Curacao,North America,CUW,1960,0
+Curacao,North America,CUW,1980,0
+Curacao,North America,CUW,2000,0
+Curacao,North America,CUW,2016,1.7
+Cyprus,Asia,CYP,1960,3.5
+Cyprus,Asia,CYP,1980,2.354
+Cyprus,Asia,CYP,2000,1.716
+Cyprus,Asia,CYP,2016,1.343
+Czech Republic,Europe,CZE,1960,2.09
+Czech Republic,Europe,CZE,1980,2.08
+Czech Republic,Europe,CZE,2000,1.15
+Czech Republic,Europe,CZE,2016,1.57
+Germany,Europe,DEU,1960,2.37
+Germany,Europe,DEU,1980,1.44
+Germany,Europe,DEU,2000,1.38
+Germany,Europe,DEU,2016,1.5
+Djibouti,Africa,DJI,1960,6.461
+Djibouti,Africa,DJI,1980,6.554
+Djibouti,Africa,DJI,2000,4.484
+Djibouti,Africa,DJI,2016,2.847
+Denmark,Europe,DNK,1960,2.57
+Denmark,Europe,DNK,1980,1.55
+Denmark,Europe,DNK,2000,1.77
+Denmark,Europe,DNK,2016,1.71
+Dominican Republic,Africa,DOM,1960,7.555
+Dominican Republic,Africa,DOM,1980,4.422
+Dominican Republic,Africa,DOM,2000,2.892
+Dominican Republic,Africa,DOM,2016,2.422
+Algeria,Europe,DZA,1960,7.524
+Algeria,Europe,DZA,1980,6.794
+Algeria,Europe,DZA,2000,2.514
+Algeria,Europe,DZA,2016,2.776
+East Asia & Pacific (excluding high income),Asia,EAP,1960,5.819895602
+East Asia & Pacific (excluding high income),Asia,EAP,1980,3.142088026
+East Asia & Pacific (excluding high income),Asia,EAP,2000,1.827508443
+East Asia & Pacific (excluding high income),Asia,EAP,2016,1.848050166
+East Asia & Pacific,Asia,EAS,1960,5.391719747
+East Asia & Pacific,Asia,EAS,1980,2.992891638
+East Asia & Pacific,Asia,EAS,2000,1.788845697
+East Asia & Pacific,Asia,EAS,2016,1.80448262
+Europe & Central Asia (excluding high income),Africa,ECA,1960,3.134307836
+Europe & Central Asia (excluding high income),Africa,ECA,1980,2.57055468
+Europe & Central Asia (excluding high income),Africa,ECA,2000,1.638280093
+Europe & Central Asia (excluding high income),Africa,ECA,2016,1.935602872
+Europe & Central Asia,Africa,ECS,1960,2.834524904
+Europe & Central Asia,Africa,ECS,1980,2.167577983
+Europe & Central Asia,Africa,ECS,2000,1.555916354
+Europe & Central Asia,Africa,ECS,2016,1.75001256
+Ecuador,Asia,ECU,1960,6.721
+Ecuador,Asia,ECU,1980,4.727
+Ecuador,Asia,ECU,2000,3.027
+Ecuador,Asia,ECU,2016,2.486
+Egypt,Africa,EGY,1960,6.716
+Egypt,Africa,EGY,1980,5.6
+Egypt,Africa,EGY,2000,3.233
+Egypt,Africa,EGY,2016,3.265
+Euro area,Africa,EMU,1960,2.601165875
+Euro area,Africa,EMU,1980,1.774267062
+Euro area,Africa,EMU,2016,1.551922101
+Eritrea,Africa,ERI,1960,6.899
+Eritrea,Africa,ERI,1980,6.675
+Eritrea,Africa,ERI,2000,5.328
+Eritrea,Africa,ERI,2016,4.133
+Spain,Africa,ESP,1960,2.86
+Spain,Africa,ESP,1980,2.22
+Spain,Africa,ESP,2000,1.22
+Spain,Africa,ESP,2016,1.33
+Estonia,Europe,EST,1960,1.98
+Estonia,Europe,EST,1980,2.02
+Estonia,Europe,EST,2000,1.36
+Estonia,Europe,EST,2016,1.58
+Ethiopia,Africa,ETH,1960,6.88
+Ethiopia,Africa,ETH,1980,7.316
+Ethiopia,Africa,ETH,2000,6.529
+Ethiopia,Africa,ETH,2016,4.198
+European Union,Europe,EUU,1960,2.583629529
+European Union,Europe,EUU,1980,1.873330776
+European Union,Europe,EUU,2000,1.464202969
+European Union,Europe,EUU,2016,1.571304769
+Fragile and conflict affected situations,Oceania,FCS,1960,6.589307937
+Fragile and conflict affected situations,Oceania,FCS,1980,6.522766842
+Fragile and conflict affected situations,Oceania,FCS,2000,5.299019264
+Fragile and conflict affected situations,Oceania,FCS,2016,4.44918706
+Finland,Europe,FIN,1960,2.72
+Finland,Europe,FIN,1980,1.63
+Finland,Europe,FIN,2000,1.73
+Finland,Europe,FIN,2016,1.65
+Fiji,Europe,FJI,1960,6.461
+Fiji,Europe,FJI,1980,3.907
+Fiji,Europe,FJI,2000,3.09
+Fiji,Europe,FJI,2016,2.516
+France,Europe,FRA,1960,2.85
+France,Europe,FRA,1980,1.85
+France,Europe,FRA,2000,1.89
+France,Europe,FRA,2016,1.96
+Faroe Islands,Europe,FRO,1960,0
+Faroe Islands,Europe,FRO,1980,2.5
+Faroe Islands,Europe,FRO,2000,2.6
+Faroe Islands,Europe,FRO,2016,2.6
+Micronesia,Oceania," Fed. Sts.'"",1960,6.934
+Micronesia,Oceania," Fed. Sts.'"",1980,6.223
+Micronesia,Oceania," Fed. Sts.'"",2000,4.3
+Micronesia,Oceania," Fed. Sts.'"",2016,3.145
+Gabon,Europe,GAB,1960,4.384
+Gabon,Europe,GAB,1980,5.684
+Gabon,Europe,GAB,2000,4.539
+Gabon,Europe,GAB,2016,3.786
+United Kingdom,Europe,GBR,1960,2.69
+United Kingdom,Europe,GBR,1980,1.9
+United Kingdom,Europe,GBR,2000,1.64
+United Kingdom,Europe,GBR,2016,1.8
+Georgia,Europe,GEO,1960,2.942
+Georgia,Europe,GEO,1980,2.314
+Georgia,Europe,GEO,2000,1.608
+Georgia,Europe,GEO,2016,1.996
+Ghana,Africa,GHA,1960,6.749
+Ghana,Africa,GHA,1980,6.539
+Ghana,Africa,GHA,2000,4.826
+Ghana,Africa,GHA,2016,3.984
+Guinea,Oceania,GIN,1960,6.114
+Guinea,Oceania,GIN,1980,6.529
+Guinea,Oceania,GIN,2000,6.082
+Guinea,Oceania,GIN,2016,4.855
+Gambia,Africa," The'"",1960,5.573
+Gambia,Africa," The'"",1980,6.337
+Gambia,Africa," The'"",2000,5.947
+Gambia,Africa," The'"",2016,5.425
+Guinea-Bissau,Oceania,GNB,1960,5.921
+Guinea-Bissau,Oceania,GNB,1980,6.487
+Guinea-Bissau,Oceania,GNB,2000,5.82
+Guinea-Bissau,Oceania,GNB,2016,4.633
+Equatorial Guinea,Africa,GNQ,1960,5.653
+Equatorial Guinea,Africa,GNQ,1980,5.835
+Equatorial Guinea,Africa,GNQ,2000,5.834
+Equatorial Guinea,Africa,GNQ,2016,4.687
+Greece,Europe,GRC,1960,2.23
+Greece,Europe,GRC,1980,2.23
+Greece,Europe,GRC,2000,1.25
+Greece,Europe,GRC,2016,1.33
+Grenada,North America,GRD,1960,6.743
+Grenada,North America,GRD,1980,4.251
+Grenada,North America,GRD,2000,2.582
+Grenada,North America,GRD,2016,2.104
+Greenland,North America,GRL,1960,0
+Greenland,North America,GRL,1980,2.435
+Greenland,North America,GRL,2000,2.329
+Greenland,North America,GRL,2016,2
+Guatemala,Oceania,GTM,1960,6.896
+Guatemala,Oceania,GTM,1980,6.342
+Guatemala,Oceania,GTM,2000,4.598
+Guatemala,Oceania,GTM,2016,2.973
+Guam,Oceania,GUM,1960,6.052
+Guam,Oceania,GUM,1980,3.248
+Guam,Oceania,GUM,2000,2.824
+Guam,Oceania,GUM,2016,2.347
+Guyana,South America,GUY,1960,6.372
+Guyana,South America,GUY,1980,3.817
+Guyana,South America,GUY,2000,3.017
+Guyana,South America,GUY,2016,2.51
+High income,North America,HIC,1960,3.036898217
+High income,North America,HIC,1980,1.967564979
+High income,North America,HIC,2000,1.708028119
+High income,North America,HIC,2016,1.650744932
+Hong Kong SAR,Asia," China'"",1960,5.014
+Hong Kong SAR,Asia," China'"",1980,2.047
+Hong Kong SAR,Asia," China'"",2000,1.032
+Hong Kong SAR,Asia," China'"",2016,1.205
+Honduras,North America,HND,1960,7.458
+Honduras,North America,HND,1980,6.313
+Honduras,North America,HND,2000,4.055
+Honduras,North America,HND,2016,2.462
+Heavily indebted poor countries (HIPC),North America,HPC,1960,6.748298984
+Heavily indebted poor countries (HIPC),North America,HPC,1980,6.912564905
+Heavily indebted poor countries (HIPC),North America,HPC,2000,6.064494383
+Heavily indebted poor countries (HIPC),North America,HPC,2016,4.855972696
+Croatia,North America,HRV,1960,2.288
+Croatia,North America,HRV,1980,1.888
+Croatia,North America,HRV,2000,1.39
+Croatia,North America,HRV,2016,1.4
+Haiti,North America,HTI,1960,6.324
+Haiti,North America,HTI,1980,6.058
+Haiti,North America,HTI,2000,4.302
+Haiti,North America,HTI,2016,2.919
+Hungary,Europe,HUN,1960,2.02
+Hungary,Europe,HUN,1980,1.91
+Hungary,Europe,HUN,2000,1.32
+Hungary,Europe,HUN,2016,1.45
+Indonesia,Asia,IDN,1960,5.666
+Indonesia,Asia,IDN,1980,4.43
+Indonesia,Asia,IDN,2000,2.512
+Indonesia,Asia,IDN,2016,2.363
+India,Asia,IND,1960,5.906
+India,Asia,IND,1980,4.827
+India,Asia,IND,2000,3.311
+India,Asia,IND,2016,2.326
+Ireland,Europe,IRL,1960,3.78
+Ireland,Europe,IRL,1980,3.21
+Ireland,Europe,IRL,2000,1.89
+Ireland,Europe,IRL,2016,1.92
+Iran,Asia," Islamic Rep.'"",1960,6.927
+Iran,Asia," Islamic Rep.'"",1980,6.481
+Iran,Asia," Islamic Rep.'"",2000,2.211
+Iran,Asia," Islamic Rep.'"",2016,1.661
+Iraq,Asia,IRQ,1960,6.252
+Iraq,Asia,IRQ,1980,6.569
+Iraq,Asia,IRQ,2000,4.894
+Iraq,Asia,IRQ,2016,4.37
+Iceland,Europe,ISL,1960,4.29
+Iceland,Europe,ISL,1980,2.48
+Iceland,Europe,ISL,2000,2.08
+Iceland,Europe,ISL,2016,1.8
+Israel,Asia,ISR,1960,3.866
+Israel,Asia,ISR,1980,3.242
+Israel,Asia,ISR,2000,2.95
+Israel,Asia,ISR,2016,3.11
+Italy,Europe,ITA,1960,2.37
+Italy,Europe,ITA,1980,1.64
+Italy,Europe,ITA,2000,1.26
+Italy,Europe,ITA,2016,1.35
+Jamaica,North America,JAM,1960,5.419
+Jamaica,North America,JAM,1980,3.733
+Jamaica,North America,JAM,2000,2.577
+Jamaica,North America,JAM,2016,2.009
+Jordan,Asia,JOR,1960,7.687
+Jordan,Asia,JOR,1980,7.262
+Jordan,Asia,JOR,2000,4.033
+Jordan,Asia,JOR,2016,3.378
+Japan,North America,JPN,1960,2.001
+Japan,North America,JPN,1980,1.75
+Japan,North America,JPN,2000,1.359
+Japan,North America,JPN,2016,1.44
+Kazakhstan,Asia,KAZ,1960,4.562
+Kazakhstan,Asia,KAZ,1980,2.9
+Kazakhstan,Asia,KAZ,2000,1.8
+Kazakhstan,Asia,KAZ,2016,2.73
+Kenya,Africa,KEN,1960,7.946
+Kenya,Africa,KEN,1980,7.455
+Kenya,Africa,KEN,2000,5.178
+Kenya,Africa,KEN,2016,3.852
+Kyrgyz Republic,Asia,KGZ,1960,5.469
+Kyrgyz Republic,Asia,KGZ,1980,4.367
+Kyrgyz Republic,Asia,KGZ,2000,2.4
+Kyrgyz Republic,Asia,KGZ,2016,3.1
+Cambodia,Africa,KHM,1960,6.967
+Cambodia,Africa,KHM,1980,5.87
+Cambodia,Africa,KHM,2000,3.805
+Cambodia,Africa,KHM,2016,2.56
+Kiribati,Oceania,KIR,1960,6.788
+Kiribati,Oceania,KIR,1980,5.07
+Kiribati,Oceania,KIR,2000,4.058
+Kiribati,Oceania,KIR,2016,3.651
+Korea,Asia," Rep.'"",1960,6.095
+Korea,Asia," Rep.'"",1980,2.82
+Korea,Asia," Rep.'"",2000,1.467
+Korea,Asia," Rep.'"",2016,1.172
+Kuwait,Asia,KWT,1960,7.244
+Kuwait,Asia,KWT,1980,5.316
+Kuwait,Asia,KWT,2000,2.845
+Kuwait,Asia,KWT,2016,1.97
+Lao PDR,Asia,LAO,1960,5.961
+Lao PDR,Asia,LAO,1980,6.277
+Lao PDR,Asia,LAO,2000,4.311
+Lao PDR,Asia,LAO,2016,2.698
+Lebanon,Asia,LBN,1960,5.739
+Lebanon,Asia,LBN,1980,3.997
+Lebanon,Asia,LBN,2000,2.225
+Lebanon,Asia,LBN,2016,1.719
+Liberia,Africa,LBR,1960,6.406
+Liberia,Africa,LBR,1980,6.973
+Liberia,Africa,LBR,2000,5.88
+Liberia,Africa,LBR,2016,4.581
+Libya,Africa,LBY,1960,7.202
+Libya,Africa,LBY,1980,7.219
+Libya,Africa,LBY,2000,2.856
+Libya,Africa,LBY,2016,2.274
+St. Lucia,North America,LCA,1960,6.967
+St. Lucia,North America,LCA,1980,4.703
+St. Lucia,North America,LCA,2000,2.202
+St. Lucia,North America,LCA,2016,1.459
+Latin America & Caribbean,Asia,LCN,1960,5.925173883
+Latin America & Caribbean,Asia,LCN,1980,4.22326545
+Latin America & Caribbean,Asia,LCN,2000,2.615645407
+Latin America & Caribbean,Asia,LCN,2016,2.064709531
+Liechtenstein,Africa,LIE,1960,0
+Liechtenstein,Africa,LIE,1980,0
+Liechtenstein,Africa,LIE,2000,1.57
+Liechtenstein,Africa,LIE,2016,1.4
+Sri Lanka,Africa,LKA,1960,5.541
+Sri Lanka,Africa,LKA,1980,3.408
+Sri Lanka,Africa,LKA,2000,2.241
+Sri Lanka,Africa,LKA,2016,2.046
+Lower middle income,Africa,LMC,1960,5.928562028
+Lower middle income,Africa,LMC,1980,5.129339057
+Lower middle income,Africa,LMC,2000,3.469482071
+Lower middle income,Africa,LMC,2016,2.779728268
+Low & middle income,Africa,LMY,1960,5.656047006
+Low & middle income,Africa,LMY,1980,4.213840157
+Low & middle income,Africa,LMY,2000,2.864348236
+Low & middle income,Africa,LMY,2016,2.57115376
+Lesotho,Asia,LSO,1960,5.839
+Lesotho,Asia,LSO,1980,5.589
+Lesotho,Asia,LSO,2000,4.089
+Lesotho,Asia,LSO,2016,3.094
+Late-demographic dividend,Asia,LTE,1960,5.17419996
+Late-demographic dividend,Asia,LTE,1980,2.879361428
+Late-demographic dividend,Asia,LTE,2000,1.657119626
+Late-demographic dividend,Asia,LTE,2016,1.703292247
+Lithuania,Africa,LTU,1960,2.56
+Lithuania,Africa,LTU,1980,1.99
+Lithuania,Africa,LTU,2000,1.39
+Lithuania,Africa,LTU,2016,1.7
+Luxembourg,Africa,LUX,1960,2.29
+Luxembourg,Africa,LUX,1980,1.5
+Luxembourg,Africa,LUX,2000,1.76
+Luxembourg,Africa,LUX,2016,1.47
+Latvia,Europe,LVA,1960,1.94
+Latvia,Europe,LVA,1980,1.86
+Latvia,Europe,LVA,2000,1.25
+Latvia,Europe,LVA,2016,1.7
+Macao SAR,Asia," China'"",1960,4.772
+Macao SAR,Asia," China'"",1980,1.709
+Macao SAR,Asia," China'"",2000,0.938
+Macao SAR,Asia," China'"",2016,1.311
+St. Martin (French part),Europe,MAF,1960,0
+St. Martin (French part),Europe,MAF,1980,0
+St. Martin (French part),Europe,MAF,2000,1.83
+St. Martin (French part),Europe,MAF,2016,1.81
+Morocco,Africa,MAR,1960,7.04
+Morocco,Africa,MAR,1980,5.684
+Morocco,Africa,MAR,2000,2.777
+Morocco,Africa,MAR,2016,2.491
+Moldova,Africa,MDA,1960,3.328
+Moldova,Africa,MDA,1980,2.481
+Moldova,Africa,MDA,2000,1.435
+Moldova,Africa,MDA,2016,1.241
+Madagascar,Africa,MDG,1960,7.3
+Madagascar,Africa,MDG,1980,6.725
+Madagascar,Africa,MDG,2000,5.551
+Madagascar,Africa,MDG,2016,4.184
+Maldives,Africa,MDV,1960,7.021
+Maldives,Africa,MDV,1980,7.081
+Maldives,Africa,MDV,2000,2.944
+Maldives,Africa,MDV,2016,2.093
+Middle East & North Africa,Africa,MEA,1960,6.881807178
+Middle East & North Africa,Africa,MEA,1980,6.22621474
+Middle East & North Africa,Africa,MEA,2000,3.201063642
+Middle East & North Africa,Africa,MEA,2016,2.774516968
+Mexico,Africa,MEX,1960,6.768
+Mexico,Africa,MEX,1980,4.836
+Mexico,Africa,MEX,2000,2.716
+Mexico,Africa,MEX,2016,2.184
+Middle income,Africa,MIC,1960,5.590629397
+Middle income,Africa,MIC,1980,4.036978513
+Middle income,Africa,MIC,2000,2.621280804
+Middle income,Africa,MIC,2016,2.337676823
+Macedonia,Europe," FYR'"",1960,3.842
+Macedonia,Europe," FYR'"",1980,2.486
+Macedonia,Europe," FYR'"",2000,1.723
+Macedonia,Europe," FYR'"",2016,1.533
+Mali,Africa,MLI,1960,6.967
+Mali,Africa,MLI,1980,7.15
+Mali,Africa,MLI,2000,6.897
+Mali,Africa,MLI,2016,6.057
+Malta,Africa,MLT,1960,3.62
+Malta,Africa,MLT,1980,1.99
+Malta,Africa,MLT,2000,1.7
+Malta,Africa,MLT,2016,1.45
+Myanmar,Africa,MMR,1960,6.051
+Myanmar,Africa,MMR,1980,4.92
+Myanmar,Africa,MMR,2000,2.914
+Myanmar,Africa,MMR,2016,2.207
+Middle East & North Africa (excluding high income),Africa,MNA,1960,6.943370957
+Middle East & North Africa (excluding high income),Africa,MNA,1980,6.257303088
+Middle East & North Africa (excluding high income),Africa,MNA,2000,3.162123633
+Middle East & North Africa (excluding high income),Africa,MNA,2016,2.822712113
+Montenegro,Africa,MNE,1960,3.603
+Montenegro,Africa,MNE,1980,2.243
+Montenegro,Africa,MNE,2000,1.875
+Montenegro,Africa,MNE,2016,1.667
+Mongolia,Africa,MNG,1960,6.953
+Mongolia,Africa,MNG,1980,6.209
+Mongolia,Africa,MNG,2000,2.143
+Mongolia,Africa,MNG,2016,2.757
+Mozambique,Africa,MOZ,1960,6.954
+Mozambique,Africa,MOZ,1980,6.464
+Mozambique,Africa,MOZ,2000,5.818
+Mozambique,Africa,MOZ,2016,5.243
+Mauritania,Africa,MRT,1960,6.775
+Mauritania,Africa,MRT,1980,6.457
+Mauritania,Africa,MRT,2000,5.453
+Mauritania,Africa,MRT,2016,4.674
+Mauritius,Africa,MUS,1960,6.167
+Mauritius,Africa,MUS,1980,2.672
+Mauritius,Africa,MUS,2000,1.99
+Mauritius,Africa,MUS,2016,1.4
+Malawi,Africa,MWI,1960,6.94
+Malawi,Africa,MWI,1980,7.643
+Malawi,Africa,MWI,2000,6.149
+Malawi,Africa,MWI,2016,4.571
+Malaysia,Africa,MYS,1960,6.45
+Malaysia,Africa,MYS,1980,4.068
+Malaysia,Africa,MYS,2000,2.784
+Malaysia,Africa,MYS,2016,2.037
+North America,Africa,NAC,1960,3.668391139
+North America,Africa,NAC,1980,1.829385729
+North America,Africa,NAC,2000,1.998998926
+North America,Africa,NAC,2016,1.779833443
+Namibia,Africa,NAM,1960,6.149
+Namibia,Africa,NAM,1980,6.451
+Namibia,Africa,NAM,2000,4.018
+Namibia,Africa,NAM,2016,3.415
+New Caledonia,Africa,NCL,1960,6.278
+New Caledonia,Africa,NCL,1980,3.418
+New Caledonia,Africa,NCL,2000,2.59
+New Caledonia,Africa,NCL,2016,2.08
+Niger,Africa,NER,1960,7.454
+Niger,Africa,NER,1980,7.844
+Niger,Africa,NER,2000,7.679
+Niger,Africa,NER,2016,7.239
+Nigeria,Africa,NGA,1960,6.354
+Nigeria,Africa,NGA,1980,6.783
+Nigeria,Africa,NGA,2000,6.106
+Nigeria,Africa,NGA,2016,5.526
+Nicaragua,Africa,NIC,1960,7.336
+Nicaragua,Africa,NIC,1980,6.132
+Nicaragua,Africa,NIC,2000,3.083
+Nicaragua,Africa,NIC,2016,2.2
+Netherlands,Africa,NLD,1960,3.12
+Netherlands,Africa,NLD,1980,1.6
+Netherlands,Africa,NLD,2000,1.72
+Netherlands,Africa,NLD,2016,1.66
+Norway,Africa,NOR,1960,2.85
+Norway,Africa,NOR,1980,1.72
+Norway,Africa,NOR,2000,1.85
+Norway,Africa,NOR,2016,1.72
+Nepal,Africa,NPL,1960,5.959
+Nepal,Africa,NPL,1980,5.725
+Nepal,Africa,NPL,2000,4.03
+Nepal,Africa,NPL,2016,2.118
+New Zealand,Africa,NZL,1960,4.03
+New Zealand,Africa,NZL,1980,2.03
+New Zealand,Africa,NZL,2000,1.98
+New Zealand,Africa,NZL,2016,1.87
+OECD members,Africa,OED,1960,3.233843675
+OECD members,Africa,OED,1980,2.17786256
+OECD members,Africa,OED,2000,1.806972062
+OECD members,Africa,OED,2016,1.726325878
+Oman,Africa,OMN,1960,7.247
+Oman,Africa,OMN,1980,8.299
+Oman,Africa,OMN,2000,3.716
+Oman,Africa,OMN,2016,2.666
+Other small states,Africa,OSS,1960,5.063058285
+Other small states,Africa,OSS,1980,4.752438627
+Other small states,Africa,OSS,2000,3.737520071
+Other small states,Africa,OSS,2016,3.104874168
+Pakistan,Africa,PAK,1960,6.6
+Pakistan,Africa,PAK,1980,6.535
+Pakistan,Africa,PAK,2000,4.58
+Pakistan,Africa,PAK,2016,3.481
+Panama,Africa,PAN,1960,5.87
+Panama,Africa,PAN,1980,3.884
+Panama,Africa,PAN,2000,2.744
+Panama,Africa,PAN,2016,2.514
+Peru,Africa,PER,1960,6.971
+Peru,Africa,PER,1980,5.021
+Peru,Africa,PER,2000,2.929
+Peru,Africa,PER,2016,2.4
+Philippines,Africa,PHL,1960,7.148
+Philippines,Africa,PHL,1980,5.183
+Philippines,Africa,PHL,2000,3.811
+Philippines,Africa,PHL,2016,2.925
+Palau,Africa,PLW,1960,0
+Palau,Africa,PLW,1980,0
+Palau,Africa,PLW,2000,1.83
+Palau,Africa,PLW,2016,0
+Papua New Guinea,Africa,PNG,1960,6.275
+Papua New Guinea,Africa,PNG,1980,5.694
+Papua New Guinea,Africa,PNG,2000,4.525
+Papua New Guinea,Africa,PNG,2016,3.658
+Poland,Africa,POL,1960,2.98
+Poland,Africa,POL,1980,2.28
+Poland,Africa,POL,2000,1.37
+Poland,Africa,POL,2016,1.32
+Pre-demographic dividend,Africa,PRE,1960,6.660859543
+Pre-demographic dividend,Africa,PRE,1980,6.90785551
+Pre-demographic dividend,Africa,PRE,2000,6.108133565
+Pre-demographic dividend,Africa,PRE,2016,5.174564582
+Puerto Rico,Africa,PRI,1960,4.657
+Puerto Rico,Africa,PRI,1980,2.607
+Puerto Rico,Africa,PRI,2000,2.0485
+Puerto Rico,Africa,PRI,2016,1.3
+Korea,Asia, Dem. People’s Rep.,1960,4.579
+Korea,Asia, Dem. People’s Rep.,1960,2.773
+Korea,Asia, Dem. People’s Rep.,1960,1.987
+Korea,Asia, Dem. People’s Rep.,1960,1.91
+Portugal,Africa,PRT,1960,3.16
+Portugal,Africa,PRT,1980,2.25
+Portugal,Africa,PRT,2000,1.55
+Portugal,Africa,PRT,2016,1.31
+Paraguay,Africa,PRY,1960,6.5
+Paraguay,Africa,PRY,1980,5.174
+Paraguay,Africa,PRY,2000,3.553
+Paraguay,Africa,PRY,2016,2.48
+West Bank and Gaza,Africa,PSE,1960,0
+West Bank and Gaza,Africa,PSE,1980,0
+West Bank and Gaza,Africa,PSE,2000,5.383
+West Bank and Gaza,Africa,PSE,2016,4.008
+Pacific island small states,Africa,PSS,1960,6.767404949
+Pacific island small states,Africa,PSS,1980,4.990384529
+Pacific island small states,Africa,PSS,2000,3.850161012
+Pacific island small states,Africa,PSS,2016,3.207719315
+Post-demographic dividend,Africa,PST,1960,2.898376115
+Post-demographic dividend,Africa,PST,1980,1.855007974
+Post-demographic dividend,Africa,PST,2000,1.614740331
+Post-demographic dividend,Africa,PST,2016,1.615147862
+French Polynesia,Europe,PYF,1960,5.658
+French Polynesia,Europe,PYF,1980,3.989
+French Polynesia,Europe,PYF,2000,2.463
+French Polynesia,Europe,PYF,2016,2.013
+Qatar,Africa,QAT,1960,6.971
+Qatar,Africa,QAT,1980,5.806
+Qatar,Africa,QAT,2000,3.236
+Qatar,Africa,QAT,2016,1.907
+Romania,Africa,ROU,1960,2.34
+Romania,Africa,ROU,1980,2.43
+Romania,Africa,ROU,2000,1.31
+Romania,Africa,ROU,2016,1.58
+Russian Federation,Africa,RUS,1960,2.52
+Russian Federation,Africa,RUS,1980,1.89
+Russian Federation,Africa,RUS,2000,1.195
+Russian Federation,Africa,RUS,2016,1.75
+Rwanda,Africa,RWA,1960,8.187
+Rwanda,Africa,RWA,1980,8.461
+Rwanda,Africa,RWA,2000,5.64
+Rwanda,Africa,RWA,2016,3.885
+South Asia,Africa,SAS,1960,6.045719215
+South Asia,Africa,SAS,1980,5.124273602
+South Asia,Africa,SAS,2000,3.46213939
+South Asia,Africa,SAS,2016,2.459614207
+Saudi Arabia,Africa,SAU,1960,7.216
+Saudi Arabia,Africa,SAU,1980,7.206
+Saudi Arabia,Africa,SAU,2000,3.971
+Saudi Arabia,Africa,SAU,2016,2.532
+Sudan,Europe,SDN,1960,6.691
+Sudan,Europe,SDN,1980,6.802
+Sudan,Europe,SDN,2000,5.471
+Sudan,Europe,SDN,2016,4.532
+Senegal,Africa,SEN,1960,6.996
+Senegal,Africa,SEN,1980,7.312
+Senegal,Africa,SEN,2000,5.471
+Senegal,Africa,SEN,2016,4.769
+Singapore,Africa,SGP,1960,5.76
+Singapore,Africa,SGP,1980,1.82
+Singapore,Africa,SGP,2000,1.6
+Singapore,Africa,SGP,2016,1.2
+Solomon Islands,Africa,SLB,1960,6.388
+Solomon Islands,Africa,SLB,1980,6.748
+Solomon Islands,Africa,SLB,2000,4.72
+Solomon Islands,Africa,SLB,2016,3.85
+Sierra Leone,Africa,SLE,1960,6.127
+Sierra Leone,Africa,SLE,1980,6.69
+Sierra Leone,Africa,SLE,2000,6.319
+Sierra Leone,Africa,SLE,2016,4.457
+El Salvador,Africa,SLV,1960,6.674
+El Salvador,Africa,SLV,1980,5.1
+El Salvador,Africa,SLV,2000,3.022
+El Salvador,Africa,SLV,2016,2.079
+Somalia,Africa,SOM,1960,7.25
+Somalia,Africa,SOM,1980,7.013
+Somalia,Africa,SOM,2000,7.623
+Somalia,Africa,SOM,2016,6.267
+Serbia,Africa,SRB,1960,0
+Serbia,Africa,SRB,1980,0
+Serbia,Africa,SRB,2000,1.48
+Serbia,Africa,SRB,2016,1.46
+Sub-Saharan Africa (excluding high income),Africa,SSA,1960,6.636322348
+Sub-Saharan Africa (excluding high income),Africa,SSA,1980,6.762950278
+Sub-Saharan Africa (excluding high income),Africa,SSA,2000,5.770317489
+Sub-Saharan Africa (excluding high income),Africa,SSA,2016,4.849755987
+South Sudan,Africa,SSD,1960,6.721
+South Sudan,Africa,SSD,1980,6.85
+South Sudan,Africa,SSD,2000,6.223
+South Sudan,Africa,SSD,2016,4.855
+Sub-Saharan Africa,Europe,SSF,1960,6.636322348
+Sub-Saharan Africa,Europe,SSF,1980,6.762950278
+Sub-Saharan Africa,Europe,SSF,2000,5.769784107
+Sub-Saharan Africa,Europe,SSF,2016,4.849550216
+Small states,Africa,SST,1960,5.306888587
+Small states,Africa,SST,1980,4.462189017
+Small states,Africa,SST,2000,3.441769347
+Small states,Africa,SST,2016,2.904052898
+Sao Tome and Principe,Africa,STP,1960,6.242
+Sao Tome and Principe,Africa,STP,1980,6.386
+Sao Tome and Principe,Africa,STP,2000,5.278
+Sao Tome and Principe,Africa,STP,2016,4.456
+Suriname,Europe,SUR,1960,6.608
+Suriname,Europe,SUR,1980,3.895
+Suriname,Europe,SUR,2000,2.861
+Suriname,Europe,SUR,2016,2.372
+Slovak Republic,Africa,SVK,1960,3.04
+Slovak Republic,Africa,SVK,1980,2.32
+Slovak Republic,Africa,SVK,2000,1.3
+Slovak Republic,Africa,SVK,2016,1.4
+Slovenia,Africa,SVN,1960,2.341
+Slovenia,Africa,SVN,1980,2.064
+Slovenia,Africa,SVN,2000,1.26
+Slovenia,Africa,SVN,2016,1.57
+Sweden,Europe,SWE,1960,2.17
+Sweden,Europe,SWE,1980,1.68
+Sweden,Europe,SWE,2000,1.54
+Sweden,Europe,SWE,2016,1.85
+Swaziland,Europe,SWZ,1960,6.717
+Swaziland,Europe,SWZ,1980,6.646
+Swaziland,Europe,SWZ,2000,4.187
+Swaziland,Europe,SWZ,2016,3.084
+Seychelles,Africa,SYC,1960,0
+Seychelles,Africa,SYC,1980,0
+Seychelles,Africa,SYC,2000,2.08
+Seychelles,Africa,SYC,2016,2.78
+Syrian Arab Republic,Asia,SYR,1960,7.467
+Syrian Arab Republic,Asia,SYR,1980,7.094
+Syrian Arab Republic,Asia,SYR,2000,4.043
+Syrian Arab Republic,Asia,SYR,2016,2.916
+Chad,Africa,TCD,1960,6.25
+Chad,Africa,TCD,1980,6.958
+Chad,Africa,TCD,2000,7.354
+Chad,Africa,TCD,2016,5.947
+East Asia & Pacific (IDA & IBRD countries),Asia,TEA,1960,5.840029288
+East Asia & Pacific (IDA & IBRD countries),Asia,TEA,1980,3.147408951
+East Asia & Pacific (IDA & IBRD countries),Asia,TEA,2000,1.825532932
+East Asia & Pacific (IDA & IBRD countries),Asia,TEA,2016,1.847262615
+Europe & Central Asia (IDA & IBRD countries),Africa,TEC,1960,3.12044842
+Europe & Central Asia (IDA & IBRD countries),Africa,TEC,1980,2.543087344
+Europe & Central Asia (IDA & IBRD countries),Africa,TEC,2000,1.61475675
+Europe & Central Asia (IDA & IBRD countries),Africa,TEC,2016,1.885977618
+Togo,Africa,TGO,1960,6.521
+Togo,Africa,TGO,1980,7.207
+Togo,Africa,TGO,2000,5.41
+Togo,Africa,TGO,2016,4.45
+Thailand,Asia,THA,1960,6.147
+Thailand,Asia,THA,1980,3.392
+Thailand,Asia,THA,2000,1.671
+Thailand,Asia,THA,2016,1.482
+Tajikistan,Asia,TJK,1960,6.547
+Tajikistan,Asia,TJK,1980,5.688
+Tajikistan,Asia,TJK,2000,3.907
+Tajikistan,Asia,TJK,2016,3.36
+Turkmenistan,Africa,TKM,1960,6.59
+Turkmenistan,Africa,TKM,1980,5.17
+Turkmenistan,Africa,TKM,2000,2.824
+Turkmenistan,Africa,TKM,2016,2.888
+Timor-Leste,Asia,TLS,1960,6.373
+Timor-Leste,Asia,TLS,1980,4.767
+Timor-Leste,Asia,TLS,2000,7.112
+Timor-Leste,Asia,TLS,2016,5.503
+Middle East & North Africa (IDA & IBRD countries),Africa,TMN,1960,6.943370957
+Middle East & North Africa (IDA & IBRD countries),Africa,TMN,1980,6.257303088
+Middle East & North Africa (IDA & IBRD countries),Africa,TMN,2000,3.142081076
+Middle East & North Africa (IDA & IBRD countries),Africa,TMN,2016,2.808989687
+Tonga,Africa,TON,1960,7.363
+Tonga,Africa,TON,1980,5.553
+Tonga,Africa,TON,2000,4.25
+Tonga,Africa,TON,2016,3.636
+South Asia (IDA & IBRD),Africa,TSA,1960,6.045719215
+South Asia (IDA & IBRD),Africa,TSA,1980,5.124273602
+South Asia (IDA & IBRD),Africa,TSA,2000,3.46213939
+South Asia (IDA & IBRD),Africa,TSA,2016,2.459614207
+Sub-Saharan Africa (IDA & IBRD countries),Europe,TSS,1960,6.636322348
+Sub-Saharan Africa (IDA & IBRD countries),Europe,TSS,1980,6.762950278
+Sub-Saharan Africa (IDA & IBRD countries),Europe,TSS,2000,5.769784107
+Sub-Saharan Africa (IDA & IBRD countries),Europe,TSS,2016,4.849550216
+Trinidad and Tobago,North America,TTO,1960,5.264
+Trinidad and Tobago,North America,TTO,1980,3.284
+Trinidad and Tobago,North America,TTO,2000,1.753
+Trinidad and Tobago,North America,TTO,2016,1.752
+Tunisia,Africa,TUN,1960,6.942
+Tunisia,Africa,TUN,1980,5.243
+Tunisia,Africa,TUN,2000,2.142
+Tunisia,Africa,TUN,2016,2.201
+Turkey,Asia,TUR,1960,6.366
+Turkey,Asia,TUR,1980,4.405
+Turkey,Asia,TUR,2000,2.503
+Turkey,Asia,TUR,2016,2.053
+Tanzania,Africa,TZA,1960,6.806
+Tanzania,Africa,TZA,1980,6.653
+Tanzania,Africa,TZA,2000,5.689
+Tanzania,Africa,TZA,2016,5.016
+Uganda,Africa,UGA,1960,6.999
+Uganda,Africa,UGA,1980,7.1
+Uganda,Africa,UGA,2000,6.865
+Uganda,Africa,UGA,2016,5.591
+Ukraine,Europe,UKR,1960,2.24
+Ukraine,Europe,UKR,1980,1.95
+Ukraine,Europe,UKR,2000,1.11
+Ukraine,Europe,UKR,2016,1.466
+Uruguay,North America,URY,1960,2.88
+Uruguay,North America,URY,1980,2.726
+Uruguay,North America,URY,2000,2.242
+Uruguay,North America,URY,2016,1.995
+United States,Europe,USA,1960,3.654
+United States,Europe,USA,1980,1.8395
+United States,Europe,USA,2000,2.056
+United States,Europe,USA,2016,1.8
+Uzbekistan,North America,UZB,1960,6.255
+Uzbekistan,North America,UZB,1980,5.112
+Uzbekistan,North America,UZB,2000,2.58
+Uzbekistan,North America,UZB,2016,2.455
+St. Vincent and the Grenadines,Europe,VCT,1960,7.224
+St. Vincent and the Grenadines,Europe,VCT,1980,3.985
+St. Vincent and the Grenadines,Europe,VCT,2000,2.379
+St. Vincent and the Grenadines,Europe,VCT,2016,1.931
+Venezuela,South America," RB'"",1960,6.616
+Venezuela,South America," RB'"",1980,4.199
+Venezuela,South America," RB'"",2000,2.822
+Venezuela,South America," RB'"",2016,2.317
+Virgin Islands (U.S.),Africa,VIR,1960,5.615
+Virgin Islands (U.S.),Africa,VIR,1980,3.138
+Virgin Islands (U.S.),Africa,VIR,2000,2.06
+Virgin Islands (U.S.),Africa,VIR,2016,2.09
+Vietnam,Asia,VNM,1960,6.348
+Vietnam,Asia,VNM,1980,5.046
+Vietnam,Asia,VNM,2000,2.01
+Vietnam,Asia,VNM,2016,1.954
+Vanuatu,North America,VUT,1960,7.197
+Vanuatu,North America,VUT,1980,5.575
+Vanuatu,North America,VUT,2000,4.368
+Vanuatu,North America,VUT,2016,3.275
+World,Africa,WLD,1960,4.984025926
+World,Africa,WLD,1980,3.722379357
+World,Africa,WLD,2000,2.66789074
+World,Africa,WLD,2016,2.43902555
+Samoa,Africa,WSM,1960,7.651
+Samoa,Africa,WSM,1980,6.203
+Samoa,Africa,WSM,2000,4.503
+Samoa,Africa,WSM,2016,3.976
+Kosovo,Asia,XKX,1960,0
+Kosovo,Asia,XKX,1980,0
+Kosovo,Asia,XKX,2000,2.95
+Kosovo,Asia,XKX,2016,2.06
+Yemen,Asia," Rep.'"",1960,7.488
+Yemen,Asia," Rep.'"",1980,8.754
+Yemen,Asia," Rep.'"",2000,6.313
+Yemen,Asia," Rep.'"",2016,3.995
+South Africa,Africa,ZAF,1960,6.041
+South Africa,Africa,ZAF,1980,4.837
+South Africa,Africa,ZAF,2000,2.829
+South Africa,Africa,ZAF,2016,2.458
+Zambia,Africa,ZMB,1960,7.115
+Zambia,Africa,ZMB,1980,7.087
+Zambia,Africa,ZMB,2000,6.036
+Zambia,Africa,ZMB,2016,4.981
+Zimbabwe,Africa,ZWE,1960,7.158
+Zimbabwe,Africa,ZWE,1980,7.095
+Zimbabwe,Africa,ZWE,2000,4.055
+Zimbabwe,Africa,ZWE,2016,3.76
