@@ -1,0 +1,251 @@
+id,Country Name,country,birth,code,region,lat,long
+1,Aruba,,7.2,ABW,,,
+2,Afghanistan,Afghanistan,18.54,AFG,Asia,33,65
+3,Angola,Angola,22.776,AGO,Africa,-12.5,18.5
+4,Albania,Albania,6.852,ALB,Europe,41,20
+6,Arab World,,13.30612961,ARB,,,
+7,United Arab Emirates,United Arab Emirates,6.992,ARE,Asia,24,54
+8,Argentina,Argentina,9.172,ARG,America,-34,-64
+9,Armenia,Armenia,6.448,ARM,Europe,40,45
+11,Antigua and Barbuda,Antigua and Barbuda,8.204,ATG,America,17.05,-61.8
+12,Australia,Australia,7.236,AUS,Oceania,-27,133
+13,Austria,Austria,5.96,AUT,Europe,47.3333,13.3333
+14,Azerbaijan,Azerbaijan,7.76,AZE,Europe,40.5,47.5
+15,Burundi,Burundi,22.788,BDI,Africa,-3.5,30
+16,Belgium,Belgium,6.8,BEL,Europe,50.8333,4
+17,Benin,Benin,19.908,BEN,Africa,9.5,2.25
+18,Burkina Faso,Burkina Faso,21.412,BFA,Africa,13,-2
+19,Bangladesh,Bangladesh,8.416,BGD,Asia,24,90
+20,Bulgaria,,6.12,BGR,,,
+21,Bahrain,Bahrain,8.132,BHR,Asia,26,50.55
+22,"Bahamas, The",The Bahamas,7.068,BHS,America,24.25,-76
+23,Bosnia and Herzegovina,Bosnia and Herzegovina,5.44,BIH,Europe,44,18
+24,Belarus,Belarus,6.932,BLR,Europe,53,28
+25,Belize,Belize,10.04,BLZ,America,17.25,-88.75
+26,Bermuda,Bermuda,6.44,BMU,America,32.303553,-64.762289
+27,Bolivia,Bolivia,11.512,BOL,America,-17,-65
+28,Brazil,Brazil,6.904,BRA,America,-10,-55
+29,Barbados,Barbados,7.188,BRB,America,13.1667,-59.5333
+30,Brunei Darussalam,Brunei,7.496,BRN,Asia,4.5,114.6667
+31,Bhutan,Bhutan,8.204,BTN,Asia,27.5,90.5
+32,Botswana,Botswana,10.92,BWA,Africa,-22,24
+33,Central African Republic,Central African Republic,19.476,CAF,Africa,7,21
+34,Canada,Canada,6.4,CAN,America,59,-114
+35,Central Europe and the Baltics,,5.814633794,CEB,,,
+36,Switzerland,Switzerland,6.16,CHE,Europe,47,8
+37,Channel Islands,,5.912,CHI,,,
+38,Chile,Chile,7.096,CHL,America,-30,-71
+39,China,China,6.496,CHN,Asia,35,105
+40,Cote d'Ivoire,Ivory Coast,19.644,CIV,Africa,8,-5
+41,Cameroon,Cameroon,18.832,CMR,Africa,6,12
+42,"Congo, Dem. Rep.",Democratic Republic of the Congo,24.448,COD,Africa,0,25
+43,"Congo, Rep.",Republic of the Congo,18.644,COG,Africa,-1,15
+44,Colombia,Colombia,7.412,COL,America,4,-72
+45,Comoros,Comoros,17.388,COM,Africa,-12.1667,44.25
+46,Cabo Verde,Cape Verde,9.336,CPV,Africa,16,-24
+47,Costa Rica,Costa Rica,7.132,CRI,America,10,-84
+48,Caribbean small states,,8.137979011,CSS,,,
+49,Cuba,Cuba,6.888,CUB,America,21.5,-80
+50,Curacao,,6.8,CUW,,,
+52,Cyprus,Cyprus,5.372,CYP,Europe,35,33
+53,Czech Republic,Czech Republic,6.28,CZE,Europe,49.75,15.5
+54,Germany,Germany,6,DEU,Europe,51,9
+55,Djibouti,Djibouti,11.388,DJI,Africa,11.5,43
+57,Denmark,Denmark,6.84,DNK,Europe,56,10
+58,Dominican Republic,Dominican Republic,9.688,DOM,America,19,-70.6667
+59,Algeria,Algeria,11.104,DZA,Africa,28,3
+60,East Asia & Pacific (excluding high income),,7.392200662,EAP,,,
+61,Early-demographic dividend,,10.14490563,EAR,,,
+62,East Asia & Pacific,,7.217930478,EAS,,,
+63,Europe & Central Asia (excluding high income),,7.742411489,ECA,,,
+64,Europe & Central Asia,,7.000050238,ECS,,,
+65,Ecuador,Ecuador,9.944,ECU,America,-2,-77.5
+66,"Egypt, Arab Rep.",Egypt,13.06,EGY,Africa,27,30
+67,Euro area,,6.207688404,EMU,,,
+68,Eritrea,Eritrea,16.532,ERI,Africa,15,39
+69,Spain,Spain,5.32,ESP,Europe,40,-4
+70,Estonia,Estonia,6.32,EST,Europe,59,26
+71,Ethiopia,Ethiopia,16.792,ETH,Africa,8,38
+72,European Union,,6.285219075,EUU,,,
+73,Fragile and conflict affected situations,,17.79674824,FCS,,,
+74,Finland,Finland,6.6,FIN,Europe,64,26
+75,Fiji,Fiji,10.064,FJI,Oceania,-18,175
+76,France,French Southern and Antarctic Lands,7.84,FRA,Europe,46,2
+77,France,France,7.84,FRA,Europe,46,2
+78,Faroe Islands,,10.4,FRO,,,
+79,"Micronesia, Fed. Sts.",Micronesia (Federated States of),12.58,FSM,Oceania,6.9167,158.25
+80,Gabon,Gabon,15.144,GAB,Africa,-1,11.75
+81,United Kingdom,United Kingdom,7.2,GBR,Europe,54,-2
+82,Georgia,Georgia,7.984,GEO,Europe,42,43.5
+83,Ghana,Ghana,15.936,GHA,Africa,8,-2
+85,Guinea,Guinea,19.42,GIN,Africa,11,-10
+86,"Gambia, The",Gambia,21.7,GMB,Africa,13.4667,-16.5667
+87,Guinea-Bissau,Guinea Bissau,18.532,GNB,Africa,12,-15
+88,Equatorial Guinea,Equatorial Guinea,18.748,GNQ,Africa,2,10
+89,Greece,Greece,5.32,GRC,Europe,39,22
+90,Grenada,Grenada,8.416,GRD,America,12.1167,-61.6667
+91,Greenland,Greenland,8,GRL,America,77.267914,-41.992332
+92,Guatemala,Guatemala,11.892,GTM,America,15.5,-90.25
+93,Guam,,9.388,GUM,,,
+94,Guyana,Guyana,10.04,GUY,America,5,-59
+95,High income,,6.60297973,HIC,,,
+96,"Hong Kong SAR, China",,4.82,HKG,,,
+97,Honduras,Palau,9.848,HND,Oceania,7.5,134.5
+98,Heavily indebted poor countries (HIPC),,19.42389078,HPC,,,
+99,Croatia,Croatia,5.6,HRV,Europe,45.1667,15.5
+100,Haiti,Haiti,11.676,HTI,America,19,-72.4167
+101,Hungary,Hungary,5.8,HUN,Europe,47,20
+102,IBRD only,,8.333880092,IBD,,,
+103,IDA & IBRD total,,10.2581911,IBT,,,
+104,IDA total,,16.30490869,IDA,,,
+105,IDA blend,,16.73610552,IDB,,,
+106,Indonesia,Indonesia,9.452,IDN,Asia,-5,120
+107,IDA only,,16.09334817,IDX,,,
+109,India,India,9.304,IND,Asia,20,77
+111,Ireland,Ireland,7.68,IRL,Europe,53,-8
+112,"Iran, Islamic Rep.",Iran,6.644,IRN,Asia,32,53
+113,Iraq,Iraq,17.48,IRQ,Asia,33,44
+114,Iceland,Iceland,7.2,ISL,Europe,65,-20
+115,Israel,Israel,12.44,ISR,Asia,31.5,34.75
+116,Italy,Italy,5.4,ITA,Europe,42.8333,12.8333
+117,Jamaica,Jamaica,8.036,JAM,America,18.25,-77.5
+118,Jordan,Jordan,13.512,JOR,Asia,31,36
+119,Japan,Japan,5.76,JPN,Asia,36,138
+120,Kazakhstan,Kazakhstan,10.92,KAZ,Asia,48,68
+121,Kenya,Kenya,15.408,KEN,Africa,1,38
+122,Kyrgyz Republic,Kyrgyzstan,12.4,KGZ,Asia,41,75
+123,Cambodia,Cambodia,10.24,KHM,Asia,13,105
+124,Kiribati,Kiribati,14.604,KIR,Oceania,1.4167,173
+126,"Korea, Rep.",South Korea,4.688,KOR,Asia,37,127.5
+127,Kuwait,Kuwait,7.88,KWT,Asia,29.3375,47.6581
+128,Latin America & Caribbean (excluding high income),,8.312984026,LAC,,,
+129,Lao PDR,Laos,10.792,LAO,Asia,18,105
+130,Lebanon,Lebanon,6.876,LBN,Asia,33.8333,35.8333
+131,Liberia,Liberia,18.324,LBR,Africa,6.5,-9.5
+132,Libya,Libya,9.096,LBY,Africa,25,17
+133,St. Lucia,Saint Lucia,5.836,LCA,America,13.8833,-61.1333
+134,Latin America & Caribbean,,8.258838123,LCN,,,
+135,Least developed countries: UN classification,,16.46114026,LDC,,,
+136,Low income,,18.90999567,LIC,,,
+137,Liechtenstein,,5.6,LIE,,,
+138,Sri Lanka,Sri Lanka,8.184,LKA,Asia,7,81
+139,Lower middle income,,11.11891307,LMC,,,
+140,Low & middle income,,10.28461504,LMY,,,
+141,Lesotho,Lesotho,12.376,LSO,Africa,-29.5,28.5
+142,Late-demographic dividend,,6.813168988,LTE,,,
+143,Lithuania,Lithuania,6.8,LTU,Europe,56,24
+144,Luxembourg,Luxembourg,5.88,LUX,Europe,49.75,6.1667
+145,Latvia,Latvia,6.8,LVA,Europe,57,25
+146,"Macao SAR, China",,5.244,MAC,,,
+147,St. Martin (French part),,7.24,MAF,,,
+148,Morocco,Morocco,9.964,MAR,Africa,32,-5
+150,Moldova,Moldova,4.964,MDA,Europe,47,29
+151,Madagascar,Madagascar,16.736,MDG,Africa,-20,47
+152,Maldives,Maldives,8.372,MDV,Asia,3.25,73
+153,Middle East & North Africa,,11.09806787,MEA,,,
+154,Mexico,Mexico,8.736,MEX,America,23,-102
+156,Middle income,,9.350707293,MIC,,,
+157,"Macedonia, FYR",Macedonia,6.132,MKD,Europe,41.8333,22
+158,Mali,Mali,24.228,MLI,Africa,17,-4
+159,Malta,Malta,5.8,MLT,Europe,35.8333,14.5833
+160,Myanmar,Myanmar,8.828,MMR,Asia,22,98
+161,Middle East & North Africa (excluding high income),,11.29084845,MNA,,,
+162,Montenegro,Montenegro,6.668,MNE,Europe,42,19
+163,Mongolia,,11.028,MNG,,,
+165,Mozambique,Mozambique,20.972,MOZ,Africa,-18.25,35
+166,Mauritania,Mauritania,18.696,MRT,Africa,20,-12
+167,Mauritius,Mauritius,5.6,MUS,Africa,-20.2833,57.55
+168,Malawi,Malawi,18.284,MWI,Africa,-13.5,34
+169,Malaysia,Malaysia,8.148,MYS,Asia,2.5,112.5
+170,North America,,7.119333772,NAC,,,
+171,Namibia,Namibia,13.66,NAM,Africa,-22,17
+172,New Caledonia,New Caledonia,8.32,NCL,Oceania,-21.631074,165.983953
+173,Niger,Niger,28.956,NER,Africa,16,8
+174,Nigeria,Nigeria,22.104,NGA,Africa,10,8
+175,Nicaragua,Nicaragua,8.8,NIC,Africa,13,-85
+176,Netherlands,Netherlands,6.64,NLD,Europe,52.5,5.75
+177,Norway,Norway,6.88,NOR,Europe,62,10
+178,Nepal,Nepal,8.472,NPL,Africa,28,84
+180,New Zealand,New Zealand,7.48,NZL,Oceania,-41,174
+181,OECD members,,6.905303514,OED,,,
+182,Oman,Oman,10.664,OMN,Asia,21,57
+183,Other small states,,12.41949667,OSS,,,
+184,Pakistan,Pakistan,13.924,PAK,Asia,30,70
+185,Panama,Panama,10.056,PAN,America,9,-80
+186,Peru,Peru,9.6,PER,America,-10,-76
+187,Philippines,Philippines,11.7,PHL,Asia,13,122
+189,Papua New Guinea,Papua New Guinea,14.632,PNG,Oceania,-6,147
+190,Poland,Poland,5.28,POL,Europe,52,20
+191,Pre-demographic dividend,,20.69825833,PRE,,,
+192,Puerto Rico,Puerto Rico,5.2,PRI,America,18.288698,-66.421804
+193,"Korea, Dem. People’s Rep.",Mongolia,7.64,PRK,Asia,46,105
+194,"Korea, Dem. People’s Rep.",North Korea,7.64,PRK,Asia,40,127
+195,Portugal,Portugal,5.24,PRT,Europe,39.5,-8
+196,Paraguay,Paraguay,9.92,PRY,America,-23,-58
+197,West Bank and Gaza,,16.032,PSE,,,
+198,Pacific island small states,,12.83087726,PSS,,,
+199,Post-demographic dividend,,6.460591446,PST,,,
+200,French Polynesia,,8.052,PYF,,,
+201,Qatar,Qatar,7.628,QAT,Asia,25.5,51.25
+202,Romania,Romania,6.32,ROU,Europe,46,25
+203,Russian Federation,Russia,7,RUS,Asia,60,100
+204,Rwanda,Rwanda,15.54,RWA,Africa,-2,30
+205,South Asia,,9.838456828,SAS,,,
+206,Saudi Arabia,Saudi Arabia,10.128,SAU,Asia,25,45
+207,Sudan,Sudan,18.128,SDN,Africa,15,30
+208,Senegal,Senegal,19.076,SEN,Africa,14,-14
+209,Singapore,Singapore,4.8,SGP,Asia,1.3667,103.8
+210,Solomon Islands,Solomon Islands,15.4,SLB,Oceania,-8,159
+211,Sierra Leone,Sierra Leone,17.828,SLE,Africa,8.5,-11.5
+212,El Salvador,El Salvador,8.316,SLV,America,13.8333,-88.9167
+214,Somalia,Somalia,25.068,SOM,Africa,10,49
+215,Somalia,Somaliland,25.068,SOM,Africa,9.779414,46.912799
+216,Serbia,Republic of Serbia,5.84,SRB,Europe,44,21
+217,Sub-Saharan Africa (excluding high income),,19.39902395,SSA,,,
+218,South Sudan,South Sudan,19.42,SSD,Africa,7.010777,30.90605
+219,Sub-Saharan Africa,,19.39820087,SSF,,,
+220,Small states,,11.61621159,SST,,,
+221,Sao Tome and Principe,Sao Tome and Principe,17.824,STP,Africa,1,7
+222,Suriname,Suriname,9.488,SUR,America,4,-56
+223,Slovak Republic,Slovakia,5.6,SVK,Europe,48.6667,19.5
+224,Slovenia,Slovenia,6.28,SVN,Europe,46,15
+225,Sweden,Sweden,7.4,SWE,Europe,62,15
+226,Swaziland,Swaziland,12.336,SWZ,Africa,-26.5,31.5
+228,Seychelles,Seychelles,11.12,SYC,Africa,-4.5833,55.6667
+229,Syrian Arab Republic,Syria,11.664,SYR,Asia,35,38
+231,Chad,Chad,23.788,TCD,Africa,15,19
+232,East Asia & Pacific (IDA & IBRD countries),,7.389050461,TEA,,,
+233,Europe & Central Asia (IDA & IBRD countries),,7.543910473,TEC,,,
+234,Togo,Togo,17.8,TGO,Africa,8,1.1667
+235,Thailand,Thailand,5.928,THA,Asia,15,100
+236,Tajikistan,Tajikistan,13.44,TJK,Asia,39,71
+237,Turkmenistan,Turkmenistan,11.552,TKM,Asia,40,60
+238,Latin America & the Caribbean (IDA & IBRD countries),,8.298756364,TLA,,,
+239,Timor-Leste,East Timor,22.012,TLS,Asia,-8.55,125.5167
+240,Middle East & North Africa (IDA & IBRD countries),,11.23595875,TMN,,,
+241,Tonga,Tonga,14.544,TON,Africa,-20,-175
+242,South Asia (IDA & IBRD),,9.838456828,TSA,,,
+243,Sub-Saharan Africa (IDA & IBRD countries),,19.39820087,TSS,,,
+244,Trinidad and Tobago,Trinidad and Tobago,7.008,TTO,Africa,11,-61
+245,Tunisia,Tunisia,8.804,TUN,Africa,34,9
+246,Turkey,Turkey,8.212,TUR,Asia,39,35
+248,Tanzania,United Republic of Tanzania,20.064,TZA,Africa,-6,35
+249,Uganda,Uganda,22.364,UGA,Africa,1,32
+250,Ukraine,Ukraine,5.864,UKR,Europe,49,32
+251,Upper middle income,,7.30280391,UMC,,,
+252,Uruguay,Uruguay,7.98,URY,America,-33,-56
+253,United States,United States of America,7.2,USA,America,38,-97
+254,Uzbekistan,Uzbekistan,9.82,UZB,Asia,41,64
+255,St. Vincent and the Grenadines,Saint Vincent and the Grenadines,7.724,VCT,America,13.25,-61.2
+256,"Venezuela, RB",Venezuela,9.268,VEN,America,8,-66
+258,Virgin Islands (U.S.),,8.36,VIR,,,
+259,Vietnam,Vietnam,7.816,VNM,Asia,16,106
+260,Vanuatu,Vanuatu,13.1,VUT,Oceania,-16,167
+261,World,,9.756102199,WLD,,,
+262,Samoa,Samoa,15.904,WSM,Oceania,-13.5833,-172.3333
+263,Kosovo,Kosovo,8.24,XKX,Europe,42.614681,20.824454
+264,"Yemen, Rep.",Yemen,15.98,YEM,Asia,15,48
+265,South Africa,South Africa,9.832,ZAF,Africa,-29,24
+266,Zambia,Zambia,19.924,ZMB,Africa,-15,30
+267,Zambia,Nauru,19.924,ZMB,Oceania,-0.5333,166.9167
+268,Zimbabwe,Zimbabwe,15.04,ZWE,Africa,-20,30

@@ -1,0 +1,35 @@
+{
+  "name": "vis-rep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch & serve",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^4.13.0",
+    "d3-array": "^1.2.1",
+    "d3-comparator": "^0.1.0",
+    "d3-force": "^1.1.0",
+    "d3-format": "^1.2.2",
+    "d3-geo-projection": "^2.4.0",
+    "d3-hierarchy": "^1.1.5",
+    "d3-polygon": "^1.0.3",
+    "d3-scale-chromatic": "^1.2.0",
+    "d3-timer": "^1.0.7",
+    "d3-tip": "^0.7.1",
+    "topojson-client": "^3.0.0"
+  },
+  "devDependencies": {
+    "d3-transition": "^1.1.1",
+    "serve": "^6.5.1",
+    "topojson": "^3.0.2",
+    "topojson-server": "^3.0.0",
+    "webpack": "^4.1.1",
+    "webpack-cli": "^2.0.11"
+  }
+}
