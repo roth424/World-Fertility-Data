@@ -26,7 +26,7 @@
   },
   "devDependencies": {
     "d3-transition": "^1.1.1",
-    "serve": "^6.5.1",
+    "serve": "^10.1.2",
     "topojson": "^3.0.2",
     "topojson-server": "^3.0.0",
     "webpack": "^4.1.1",
